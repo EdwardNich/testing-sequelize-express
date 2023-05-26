@@ -14,11 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": "mavHPIRnSolgZ9HdukTa",
-    "database": "railway",
-    "host": "containers-us-west-128.railway.app",
-    "port": "7676",
+    "username": "sql12621409",
+    "password": "UgjJdfMCgK",
+    "database": "sql12621409",
+    "host": "sql12.freemysqlhosting.net",
     "dialect": "mysql"
   }
 }
